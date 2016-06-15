@@ -13,24 +13,6 @@ public class wordCleanse {
         articleSet.add("a");
         articleSet.add("and");
         articleSet.add("ain't");
-        articleSet.add("are");
-        articleSet.add("the");
-        articleSet.add("one");
-        articleSet.add("an");
-        articleSet.add("as");
-        articleSet.add("about");
-        articleSet.add("em");
-        articleSet.add("at");
-        articleSet.add("be");
-        articleSet.add("all");
-        articleSet.add("but");
-        articleSet.add("by");
-        articleSet.add("do");
-        articleSet.add("each");
-        articleSet.add("else");
-        articleSet.add("for");
-        articleSet.add("'cause");
-        articleSet.add("bout");
 
         return articleSet;
     }

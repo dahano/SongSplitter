@@ -17,7 +17,7 @@ public class Main {
 
         Map<String, Integer> finalCount = new TreeMap<>();
 
-        Path Stan_path = Paths.get("/Users/odahan/Desktop", "Stan.txt");
+        Path Stan_path = Paths.get("/Users/ofirdahan/Desktop", "textFile.txt");
 
         Charset charset = Charset.forName("UTF-8");
 
